@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "587539154523",
+    "project_id": "property-tracker-94c49",
+    "storage_bucket": "property-tracker-94c49.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:587539154523:android:a5c36498ceb1269c2d617e",
+        "android_client_info": {
+          "package_name": "com.example.property_checker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8VNBAeFQ3oNAzeslP2jC7v9Qnwv_YEcc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
